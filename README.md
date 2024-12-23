@@ -27,3 +27,6 @@ Bu projede kodları daha yalın ve tekrar kullanılabilir hale getiren metotlar 
 
 ## 📌 09_DatabaseProject
 Bu projede veritabanı bağlamayı ve kullanmayı öğrendim. Kullanıcıdan seçimlerini alarak ekrana ona yönelik verileri getirmeyi öğrendim. Bu sayede minik bir Ürün-Kategori Bilgi Sistemi oluşturdum.
+
+## 📌 10_DatabaseCrud
+Bu projede CRUD (Create-Read-Update-Delete) operasyonlarını öğrenip onları kullanarak veritabanıma çeşitli işlemler yaptırdım.
